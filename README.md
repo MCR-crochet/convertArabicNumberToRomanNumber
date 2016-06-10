@@ -14,8 +14,14 @@ Pour convertir un chiffre arabe en chiffre romain, j'ai décidé de créer une m
 	 millier		'' 	| M	| MM  | MMM	
 
 La méthode de conversion est la suivante :
+
 Pour chaque nombre, on va chercher dans la matrice le chiffre en fonction de sa position (unité, dizaine, ...).
-Exemple : pour 125 on prendra donc la colonne 1 et la ligne centaine (C), la colonne 2 et la ligne dizaine (XX) et enfin la colonne 5 et la ligne unité (V) soit CXXV
+
+Exemple : pour 125 on prendra donc la colonne 1 et la ligne "centaine" (C), la colonne 2 et la ligne "dizaine" (XX) et enfin la colonne 5 et la ligne "unité" (V) 
+
+soit CXXV
+
+
 
 Pour un résultat précis, il faut veiller à ce que les caractères ne soient que des chiffres, qu'ils soient compris entre 1 et 3 999 et qu'il n'y ait pas d'espace.
 
