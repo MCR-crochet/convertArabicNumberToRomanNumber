@@ -1,0 +1,67 @@
+2016-06-09 18:11:58 ERROR App:76 - Erreur
+java.lang.Exception: Erreur
+	at com.ineat.ChiffreRomain.App.main(App.java:45)
+2016-06-09 18:33:32 ERROR App:71 - Erreur
+java.lang.Exception: Erreur
+	at com.ineat.ChiffreRomain.App.main(App.java:44)
+2016-06-09 18:33:39 DEBUG App:68 - Le fichier sortie.txt a bien été généré.
+2016-06-10 09:51:59 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 153
+2016-06-10 09:51:59 DEBUG Utils:51 - [EXIT] convertArabeToRoman : CLIII
+2016-06-10 09:51:59 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 249
+2016-06-10 09:51:59 DEBUG Utils:51 - [EXIT] convertArabeToRoman : CCXLIX
+2016-06-10 09:51:59 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 583
+2016-06-10 09:51:59 DEBUG Utils:51 - [EXIT] convertArabeToRoman : DLXXXIII
+2016-06-10 09:51:59 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 1963
+2016-06-10 09:51:59 DEBUG Utils:51 - [EXIT] convertArabeToRoman : MCMLXIII
+2016-06-10 09:51:59 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 3875
+2016-06-10 09:51:59 DEBUG Utils:51 - [EXIT] convertArabeToRoman : MMMDCCCLXXV
+2016-06-10 09:51:59 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 3890
+2016-06-10 09:51:59 DEBUG Utils:51 - [EXIT] convertArabeToRoman : MMMDCCCXC
+2016-06-10 09:51:59 DEBUG App:79 - Le fichier sortie.txt a bien été généré.
+2016-06-10 09:52:36 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 153
+2016-06-10 09:52:36 DEBUG Utils:51 - [EXIT] convertArabeToRoman : CLIII
+2016-06-10 09:52:36 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 249e
+2016-06-10 09:52:36 ERROR Utils:28 - Le nombre doit être composé que d'entier
+2016-06-10 09:52:36 DEBUG App:79 - Le fichier sortie.txt a bien été généré.
+2016-06-10 09:54:18 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 153
+2016-06-10 09:54:18 DEBUG Utils:51 - [EXIT] convertArabeToRoman : CLIII
+2016-06-10 09:54:18 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 249e
+2016-06-10 09:54:18 ERROR Utils:28 - Le nombre doit être composé que d'entier
+2016-06-10 09:54:18 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 583
+2016-06-10 09:54:18 DEBUG Utils:51 - [EXIT] convertArabeToRoman : DLXXXIII
+2016-06-10 09:54:18 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 1963
+2016-06-10 09:54:18 DEBUG Utils:51 - [EXIT] convertArabeToRoman : MCMLXIII
+2016-06-10 09:54:18 DEBUG Utils:21 - [ENTER] convertArabeToRoman : -3875
+2016-06-10 09:54:18 ERROR Utils:28 - Le nombre doit être composé que d'entier
+2016-06-10 09:54:18 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 3890
+2016-06-10 09:54:18 DEBUG Utils:51 - [EXIT] convertArabeToRoman : MMMDCCCXC
+2016-06-10 09:54:18 DEBUG Utils:21 - [ENTER] convertArabeToRoman : 4000
+2016-06-10 09:54:18 ERROR Utils:37 - Le nombre doit être inférieur ou égal à 3999
+2016-06-10 09:54:18 DEBUG App:77 - Le fichier sortie.txt a bien été généré.
+2016-06-10 10:00:55 DEBUG Utils:29 - [ENTER] convertArabeToRoman : 153
+2016-06-10 10:00:55 DEBUG Utils:59 - [EXIT] convertArabeToRoman : CLIII
+2016-06-10 10:00:55 DEBUG Utils:29 - [ENTER] convertArabeToRoman : 249e
+2016-06-10 10:00:55 ERROR Utils:36 - Le nombre doit être composé que d'entier
+2016-06-10 10:00:55 DEBUG Utils:29 - [ENTER] convertArabeToRoman : 583
+2016-06-10 10:00:55 DEBUG Utils:59 - [EXIT] convertArabeToRoman : DLXXXIII
+2016-06-10 10:00:55 DEBUG Utils:29 - [ENTER] convertArabeToRoman : 1963
+2016-06-10 10:00:55 DEBUG Utils:59 - [EXIT] convertArabeToRoman : MCMLXIII
+2016-06-10 10:00:55 DEBUG Utils:29 - [ENTER] convertArabeToRoman : -3875
+2016-06-10 10:00:55 ERROR Utils:36 - Le nombre doit être composé que d'entier
+2016-06-10 10:00:55 DEBUG Utils:29 - [ENTER] convertArabeToRoman : 3890
+2016-06-10 10:00:55 DEBUG Utils:59 - [EXIT] convertArabeToRoman : MMMDCCCXC
+2016-06-10 10:00:55 DEBUG Utils:29 - [ENTER] convertArabeToRoman : 4000
+2016-06-10 10:00:55 ERROR Utils:45 - Le nombre doit être inférieur ou égal à 3999
+2016-06-10 10:00:55 DEBUG App:69 - Le fichier sortie.txt a bien été généré.
+2016-06-10 10:29:15 DEBUG Utils:46 - [ENTER] convertArabeToRoman : 4000
+2016-06-10 10:29:15 ERROR Utils:64 - Le nombre doit être inférieur ou égal à 3999
+2016-06-10 10:29:15 DEBUG Utils:46 - [ENTER] convertArabeToRoman : -123
+2016-06-10 10:29:15 ERROR Utils:54 - Le nombre doit être composé que d'entier
+2016-06-10 10:29:15 DEBUG Utils:46 - [ENTER] convertArabeToRoman : 123
+2016-06-10 10:29:15 DEBUG Utils:79 - [EXIT] convertArabeToRoman : CXXIII
+2016-06-10 10:38:45 DEBUG Utils:46 - [ENTER] convertArabeToRoman : 4000
+2016-06-10 10:38:45 ERROR Utils:64 - Le nombre doit �tre inf�rieur ou �gal � 3999
+2016-06-10 10:38:45 DEBUG Utils:46 - [ENTER] convertArabeToRoman : -123
+2016-06-10 10:38:45 ERROR Utils:54 - Le nombre doit �tre compos� que d'entier
+2016-06-10 10:38:45 DEBUG Utils:46 - [ENTER] convertArabeToRoman : 123
+2016-06-10 10:38:45 DEBUG Utils:79 - [EXIT] convertArabeToRoman : CXXIII

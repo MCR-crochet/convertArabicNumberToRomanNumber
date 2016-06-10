@@ -1,0 +1,8 @@
+(153, CLIII)
+(249e, NaN)
+(583, DLXXXIII)
+(1963, MCMLXIII)
+(-3875, NaN)
+(3890, MMMDCCCXC)
+(4000, Nombre supérieur à 3999)
+
